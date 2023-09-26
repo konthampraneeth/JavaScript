@@ -43,3 +43,20 @@ let course ={
         }
         const {courseName:Name}= course //New method to call key values also can change the name for output
         console.log(Name);
+
+
+        {
+            'name'='Praneeth',
+            'Hobby'='coding'             //Json file
+            'IsActive'=true
+
+        }
+
+        [
+            {
+                'Packages':'json',
+                'Another':'Format'
+
+            }
+
+        ]
