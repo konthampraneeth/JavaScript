@@ -22,3 +22,9 @@ val1 = 10 ?? 55 ?? 4
 val1 = undefined ?? null ?? 77
 
 console.log(val1);
+
+// Ternary Operator 
+
+let a =50;
+
+a<=50 ? console.log("bleow 50"): console.log("Above 80");
